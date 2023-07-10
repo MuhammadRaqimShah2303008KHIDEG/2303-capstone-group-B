@@ -1,0 +1,6 @@
+PATIENT_URL="https://xloop-dummy.herokuapp.com/patient/"
+COUNCILLOR_URL="https://xloop-dummy.herokuapp.com/councillor/"
+ACCOUNT_URL="https://xloop-dummy.herokuapp.com/account/"
+ROUTE_URL="https://api.tomtom.com/routing/1/calculateRoute/"
+API_KEY = "HamdIRQ6ZeNJZj69Gy2Rru0VCqe04EoK"
+PRICES_URL = "http://fuel-service:8001/fuel-price/"
