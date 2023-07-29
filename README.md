@@ -1,5 +1,11 @@
 # Capstone_Emeritus
 # 2303-capstone-group-B
+# Our Task
+- Online vs in-person appointments. PeaceOfMind would offer online appointments as
+well. We'd use user's (both doctor's and patient's) location data, external APIs
+(perhaps Google Maps API or similar, we'd need to research that a bit) and compare
+how much time, money and greenhouse gases emissions they are saving by having
+an online appointment instead of an in-person one.
 
 ### Table of Contents
 - Team Members
